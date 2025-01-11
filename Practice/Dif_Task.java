@@ -6,6 +6,8 @@ public class Dif_Task {
         int b = 20;
         int ab = a * b;
         int sum = a + b + b;
+        int w = 10 + 20;
+        System.out.println(w);
         System.out.println(sum);
     }
 }
